@@ -1,7 +1,7 @@
 # Ticketing_GUI_System_Java_SQL
 
 <h2>Project Description</h2>
-This project consists of a GUI Ticketing Booking System made from Java and SQL. I needed to integratea database component, implement design patterns, use <a href="https://github.com/srn1153/pdcAssignment2/tree/master">GitHub for version control</a>, and incorporate necessary unit tests. Additionally I applied OOP concepts such as abstraction, encapsulation, inheritance and polymorphism, while creating multiple classes with necessary relationships. I also needed to consider invalid responses from the user. 
+This project consists of a GUI Ticketing Booking System made from Java and SQL. I needed to integratea database component, implement design patterns, use GitHub for version control, and incorporate necessary unit tests. Additionally I applied OOP concepts such as abstraction, encapsulation, inheritance and polymorphism, while creating multiple classes with necessary relationships. I also needed to consider invalid responses from the user. 
 <br />
 
 
@@ -29,6 +29,10 @@ efficiently. To utilize my code, I implemented object-oriented programming, incl
 abstraction, encapsulation, inheritance, polymorphism and an interface. Once I completed the 
 program, I created tests cases all effectively testing my methods.
 </p>
+
+<h2>
+<a href="https://github.com/srn1153/pdcAssignment2/tree/master">View Github Commits</a>
+</h2>
 
 <!--
  ```diff
