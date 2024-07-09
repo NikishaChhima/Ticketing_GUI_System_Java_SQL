@@ -28,11 +28,6 @@ Code became repetitive, so I re-evaluated my classes to decide on how to maximiz
 efficiently. To utilize my code, I implemented object-oriented programming, including 
 abstraction, encapsulation, inheritance, polymorphism and an interface. Once I completed the 
 program, I created tests cases all effectively testing my methods.
-
-<h2>Program walk-through video:</h2>
-
-upload video here 
-
 </p>
 
 <!--
