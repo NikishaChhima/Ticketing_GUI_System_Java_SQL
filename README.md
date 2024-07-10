@@ -1,7 +1,7 @@
 # Ticketing_GUI_System_Java_SQL
 
 <h2>Project Description</h2>
-This project consists of a GUI Ticketing Booking System made from Java and SQL. I needed to integrate a database component, implement design patterns, use GitHub for version control, and incorporate necessary unit tests. Additionally I applied OOP concepts such as abstraction, encapsulation, inheritance and polymorphism, while creating multiple classes with necessary relationships. I also needed to consider invalid responses from the user. 
+This project consists of a GUI Ticketing Booking System made using Java and SQL. I integrated a database component, implemented design patterns, used <a href="https://github.com/srn1153/pdcAssignment2/tree/master">GitHub for version control</a>, and incorporated necessary unit tests. Additionally, I applied OOP concepts such as abstraction, encapsulation, inheritance and polymorphism, while creating multiple classes with necessary relationships. I also needed to consider invalid responses from the user. 
 <br />
 
 
@@ -16,8 +16,8 @@ This project consists of a GUI Ticketing Booking System made from Java and SQL. 
 - Apache Derby DB
 
 <h2>Project Setup:</h2>
-For this project, I started off by creating a story board to visualize my ideas and concepts. I needed to 
-decide the logical order of all the various panels, ensuring the best possible user experience. 
+For this project, I started off by creating a story board to visualize my ideas and concepts. I 
+decided the logical order of all the various panels, ensuring the best possible user experience. 
 Once I created my initial setup, I connected my project to GitHub allowing me to perform 
 multiple commits for version control. I first created my TempoTicketsWebsite class, 
 which includes the main, helping me visualize what was occurring in my code. Based on my 
@@ -29,10 +29,6 @@ efficiently. To utilize my code, I implemented object-oriented programming, incl
 abstraction, encapsulation, inheritance, polymorphism and an interface. Once I completed the 
 program, I created tests cases all effectively testing my methods.
 </p>
-
-<h2>
-<a href="https://github.com/srn1153/pdcAssignment2/tree/master">View Github Commits</a>
-</h2>
 
 <!--
  ```diff
