@@ -1,21 +1,42 @@
-# Ticketing_GUI_System_Java_SQL
+# Ticketing GUI System Java SQL
 
 <h2>Project Description</h2>
-This project consists of a GUI Ticketing Booking System made using Java and SQL. I integrated a database component, implemented design patterns, used <a href="https://github.com/srn1153/pdcAssignment2/tree/master">GitHub for version control</a>, and incorporated necessary unit tests. Additionally, I applied OOP concepts such as abstraction, encapsulation, inheritance and polymorphism, while creating multiple classes with necessary relationships. I also needed to consider invalid responses from the user. Please see zip file above to view project. 
-<br />
+<p>
+This project is a GUI-based Ticket Booking System developed using Java and SQL. It allows users to book tickets efficiently while handling invalid inputs gracefully.
+</p>
 
+**Key Features & Highlights**
+<ul>
+  <li><strong>Database Integration:</strong> Designed and connected a backend SQL database to manage ticketing data.</li>
+  <li><strong>Object-Oriented Programming (OOP):</strong> Applied core OOP principles such as <em>abstraction, encapsulation, inheritance, and polymorphism</em> across multiple classes with meaningful relationships.</li>
+  <li><strong>Design Patterns:</strong> Implemented appropriate design patterns to improve code structure and maintainability.</li>
+  <li><strong>Version Control & Testing:</strong> Used <a href="https://github.com/srn1153/pdcAssignment2/tree/master">GitHub</a> for version control and incorporated unit tests to ensure reliable functionality.</li>
+  <li><strong>Error Handling:</strong> Built robust input validation to handle invalid user responses effectively.</li>
+</ul>
 
-<h2>Languages and Utilities Used</h2>
+<p>
+This project demonstrates full-stack Java development skills, strong OOP design, and attention to usability and code quality.
+</p>
+
+<p>Please see the attached zip file to view the complete project.</p>
+
+## Video Demo & Code Walkthrough
+**Full Code Walkthrough + Demo**
+</br>This 10 minute video explains the architecture, design decisions, and implementation of my ticketing system.
+</br>The demo starts at 8:59:
+</br><a href="https://youtu.be/fARbJWwaiyI">GUI Ticketing System Video</a>
+
+## Languages and Utilities Used
 
 - Java 
 - SQL
 
-<h2>Environments Used</h2>
+## Environments Used
 
 - Netbeans Version 14 JDK 11
 - Apache Derby DB
 
-<h2>Project Setup:</h2>
+## Project Setup
 For this project, I started off by creating a story board to visualize my ideas and concepts. I 
 decided the logical order of all the various panels, ensuring the best possible user experience. 
 Once I created my initial setup, I connected my project to GitHub allowing me to perform 
