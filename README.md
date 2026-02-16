@@ -23,9 +23,9 @@ This project demonstrates full-stack Java development skills, strong OOP design,
 ## Code Walkthrough & Video Demo
 **The images below displays the Home Page, Viewing Tickets Page, and a Refunding Process.**
 
-<img width="300" alt="Screenshot 2026-02-16 at 5 12 15 PM" src="https://github.com/user-attachments/assets/5b99ef43-1e0d-4afb-8bb3-5e89cac5fa59" />
-<img width="300" alt="Screenshot 2026-02-16 at 5 12 28 PM" src="https://github.com/user-attachments/assets/8d1eb174-a2bc-461d-ab40-62a96ec0cc44" />
-<img width="300" alt="Screenshot 2026-02-16 at 5 12 50 PM" src="https://github.com/user-attachments/assets/01cd4167-1678-4c11-bbf4-288a670cb33b" />
+<img width="250" alt="Screenshot 2026-02-16 at 5 12 15 PM" src="https://github.com/user-attachments/assets/5b99ef43-1e0d-4afb-8bb3-5e89cac5fa59" />
+<img width="250" alt="Screenshot 2026-02-16 at 5 12 28 PM" src="https://github.com/user-attachments/assets/8d1eb174-a2bc-461d-ab40-62a96ec0cc44" />
+<img width="250" alt="Screenshot 2026-02-16 at 5 12 50 PM" src="https://github.com/user-attachments/assets/01cd4167-1678-4c11-bbf4-288a670cb33b" />
 </br></br>
 
 **Full Code Walkthrough + Demo**
